@@ -1,19 +1,11 @@
 <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
 
-# CYBERSECURITY LOGS DOCUMENTATION
+# SOC AUTOMATION CENTER
 
-<a href="https://github.com/GabrielLugooo/CiberSec-Logs-English" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20Logs-000000" alt="English Logs" /></a>
-<a href="https://github.com/GabrielLugooo/CiberSec-Logs-Spanish" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20Logs-green" alt="Spanish Logs" /></a>
+<a href="https://github.com/GabrielLugooo/SOC-Automation/tree/main" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/English%20SOC-000000" alt="English SOC" /></a>
+<a href="https://github.com/GabrielLugooo/SOC-Automation/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/Spanish%20SOC-green" alt="Spanish SOC" /></a>
 
 ### Objective
-
-The Cybersecurity Logs Documentation project aims to centralize and organize various security log records to enhance cybersecurity analysis and threat detection. By compiling logs from different sources, this repository provides a structured dataset for research, training, and real-world security assessments.
-
-The primary goal is to facilitate better understanding of log-based security monitoring, helping cybersecurity professionals, researchers, and enthusiasts analyze patterns, identify anomalies, and improve incident response strategies. The documentation includes detailed explanations of log formats, key security events, and best practices for log management.
-
-This collection serves as a valuable resource for setting up Security Information and Event Management (SIEM) systems, forensic investigations, and automated threat detection mechanisms. It helps users simulate and study attack scenarios based on real-world log data, contributing to proactive cybersecurity defenses.
-
-By consolidating these logs into a single repository, we aim to create a comprehensive knowledge base that supports learning, security tool development, and effective cyber threat mitigation.
 
 ### Skills Learned
 
@@ -25,21 +17,35 @@ By consolidating these logs into a single repository, we aim to create a compreh
 
 ### Tools Used
 
+![Static Badge](https://img.shields.io/badge/Google%20SecOps-000000?logo=google&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/-000000?logo=splunk&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/TCPDump-000000?logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Wireshark-000000?logo=wireshark&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Linux-000000?logo=linux&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/SQL-000000?logo=sqlite&logoSize=auto)
+![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
+
 - Security Information and Event Management (SIEM) systems (Google SecOps and Splunk) for log ingestion and analysis.
 - Network analysis tools (TCPDump, Wireshark) for capturing and examining network traffic.
 - Network analysis and algorythms created with code languages (Linux, SQL, Python) for automatization of capturing, examining and analyze network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
 
-### Logs Categories:
+### Project
 
-- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Access%20Control" target="_blank" rel="noreferrer noopener">Access Control Logs</a>
-- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Audits" target="_blank" rel="noreferrer noopener">Audits Logs</a>
-- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/IOC%20Indicators" target="_blank" rel="noreferrer noopener">IOC Indicators Logs</a>
-- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Incidents" target="_blank" rel="noreferrer noopener">Incidents Logs</a>
-- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/PASTA" target="_blank" rel="noreferrer noopener">PASTA Logs</a>
-- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Phishing" target="_blank" rel="noreferrer noopener">Phishing Logs</a>
-- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Risk%20Register" target="_blank" rel="noreferrer noopener">Risk Register Logs</a>
-- <a href="https://github.com/GabrielLugooo/CiberSec-Logs-English/tree/main/Vulnerability%20Assessment" target="_blank" rel="noreferrer noopener">Vulnerability Assessment Logs</a>
+In many organizations,
+
+#### First Step
+
+For the first part of the
+
+```sh
+# Assign `import_file` to the name of the file
+import_file = "allow_list.txt"
+```
+
+### Limitations
+
+SOC Automation Center it's just for educational purpose under the MIT License.
 
 ---
 
