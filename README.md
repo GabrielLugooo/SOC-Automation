@@ -9,7 +9,7 @@
 
 ### Skills Learned
 
-- Advanced understanding of SIEM concepts and practical application.
+- Advanced understanding of SOC concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
@@ -25,7 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/SQL-000000?logo=sqlite&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
 
-- Security Information and Event Management (SIEM) systems (Google SecOps and Splunk) for log ingestion and analysis.
+- Security Information and Event Management (SIEM) systems for log ingestion and analysis.
 - Network analysis tools (TCPDump, Wireshark) for capturing and examining network traffic.
 - Network analysis and algorythms created with code languages (Linux, SQL, Python) for automatization of capturing, examining and analyze network traffic.
 - Telemetry generation tools to create realistic network traffic and attack scenarios.
