@@ -1,6 +1,6 @@
 <img align="center" src="https://media.licdn.com/dms/image/v2/D4D16AQGUNxQ7NSC05A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738695150340?e=1744243200&v=beta&t=oXX-ixT9bR3dJcYCLv4KBs5wjKFoeP0524kFGHQMYmQ" alt="gabriellugo" />
 
-# CENTRO DE AUTOMATIZACIÓN SOC
+# SOC (CENTRO DE OPERACIONES DE SEGURIDAD DE CÓDIGO ABIERTO)
 
 <a href="https://github.com/GabrielLugooo/SOC-Automation/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SOCs%20Español-000000" alt="SOC Español" /></a>
 <a href="https://github.com/GabrielLugooo/SOC-Automation/tree/main" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SOC%20Inglés-green" alt="SOC Inglés" /></a>
@@ -9,7 +9,7 @@
 
 ### Habilidades Aprendidas
 
-- Comprensión avanzada de los conceptos de SIEM y su aplicación práctica.
+- Comprensión avanzada de los conceptos de SOC y su aplicación práctica.
 - Competencia en el análisis e interpretación de registros de red.
 - Capacidad para generar y reconocer firmas y patrones de ataques.
 - Mayor conocimiento de los protocolos de red y vulnerabilidades de seguridad.
@@ -25,7 +25,7 @@
 ![Static Badge](https://img.shields.io/badge/SQL-000000?logo=sqlite&logoSize=auto)
 ![Static Badge](https://img.shields.io/badge/Python-000000?logo=python&logoSize=auto)
 
-- Sistemas de Gestión de Eventos e Información de Seguridad (SIEM) (Google SecOps y Splunk) para ingesta y análisis de logs.
+- Sistemas de Gestión de Eventos e Información de Seguridad (SIEM) para ingesta y análisis de logs.
 - Herramientas de análisis de red (TCPDump, Wireshark) para captura y examen de tráfico de red.
 - Análisis de red y algoritmos creados con lenguajes de código (Linux, SQL, Python) para la automatización de la captura, examen y análisis de tráfico de red.
 - Herramientas de generación de telemetría para crear escenarios realistas de tráfico de red y ataques.
