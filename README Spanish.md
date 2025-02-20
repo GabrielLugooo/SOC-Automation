@@ -2,7 +2,7 @@
 
 # SOC (CENTRO DE OPERACIONES DE SEGURIDAD DE CÓDIGO ABIERTO)
 
-<a href="https://github.com/GabrielLugooo/SOC-Automation/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SOCs%20Español-000000" alt="SOC Español" /></a>
+<a href="https://github.com/GabrielLugooo/SOC-Automation/blob/main/README%20Spanish.md" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SOC%20Español-000000" alt="SOC Español" /></a>
 <a href="https://github.com/GabrielLugooo/SOC-Automation/tree/main" target="_blank" rel="noreferrer noopener"> <img align="center" src="https://img.shields.io/badge/SOC%20Inglés-green" alt="SOC Inglés" /></a>
 
 ### Objetivos
